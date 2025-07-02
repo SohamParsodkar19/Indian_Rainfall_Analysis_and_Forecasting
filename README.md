@@ -33,7 +33,5 @@ The dashboard includes:
 ![Rainfall Dashboard Screenshot](https://raw.githubusercontent.com/SohamParsodkar19/Indian_Rainfall_Analysis_and_Forecasting/main/Dashboard.png)  
 
 
----
 
-## 📁 File Structure
 
